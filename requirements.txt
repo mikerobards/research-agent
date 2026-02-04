@@ -8,6 +8,7 @@ python-dotenv
 pypdf
 requests
 pandas
+ipywidgets
 semantic_router
 pinecone
 serpapi
